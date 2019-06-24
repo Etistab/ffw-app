@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fight Food Waste</string>
+    <string name="email">Email</string>
+    <string name="connect">Connexion</string>
+    <string name="quit">Quitter</string>
+
+    <string name="collect">Collecte</string>
+    <string name="distribution">Distribution</string>
+
+    <string name="see">Voir</string>
+    <string name="validate">V</string>
+    <string name="decline">X</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="FightFoodWaste" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryDark">@color/greenDark</item>
+        <item name="colorAccent">@color/blue</item>
+        <item name="android:buttonStyle">@style/FightFoodWasteButton</item>
+    </style>
+
+    <!-- BUTTON -->
+    <style name="FightFoodWasteButton" parent="Widget.AppCompat.Button.Colored">
+        <item name="colorButtonNormal">@color/blue</item>
+    </style>
+
+</resources>
